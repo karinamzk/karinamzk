@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Meu nome é Karina Akina! 👋<br><br>Sou uma profissional apaixonada por aprendizado e desenvolvimento. Este é o espaço onde compartilho projetos que refletem minha jornada como desenvolvedora.<br><br>Sinta-se à vontade para explorar estes projetos, cada um representando um passo nessa jornada fascinante de crescimento e desenvolvimento.<br><br>Seja bem-vindo/a!</h2>
+<h2 align="left">Olá, Meu nome é Karina Akina! 👋<br><br>Sou uma profissional apaixonada por aprendizado e desenvolvimento. Este é o espaço onde compartilho projetos que refletem minha jornada como desenvolvedora.<br><br>Seja bem-vindo/a!</h2>
 
 <h3>Sobre Mim:</h3>
 <ul>
