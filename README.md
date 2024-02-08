@@ -12,7 +12,6 @@
 <p>Este repositório reflete meu compromisso com o aprendizado contínuo e aprimoramento de habilidades.</p>
 
 <p>Seja bem-vindo(a)!</p>
-###
 
 <div align="left">
   <a href="karinamzk2@gmail.com" target="_blank">
