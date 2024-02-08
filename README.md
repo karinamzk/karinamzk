@@ -1,5 +1,17 @@
-<h2 align="left">Bem-vindo ao Meu Repositório! 👋<br><br>Olá, me chamo Karina! Sou apaixonada por aprendizado e desenvolvimento, e este espaço reúne projetos que refletem minha jornada como profissional em constante evolução. Com uma sólida experiência como educadora e gestora de equipes, mergulhei de cabeça em um bootcamp da Generation Brasil, onde aprimorei minhas habilidades em C#, SQL, ASP.NET e React.<br><br>Este repositório é uma manifestação do meu compromisso em fortalecer minha base de conhecimento tecnológico, explorando não apenas as ferramentas fundamentais, mas também adotando metodologias ágeis e aprimorando minhas habilidades de comunicação para ser uma profissional mais completa.<br><br>Estou atualmente imersa em uma emocionante transição para a área de tecnologia, impulsionada pelo meu entusiasmo em enfrentar desafios e alimentada pela busca incessante pelo aprendizado contínuo.<br><br>Sinta-se à vontade para explorar estes projetos, cada um representando um passo nessa jornada fascinante de crescimento e desenvolvimento.<br><br>Seja bem-vindo/a!</h2>
+<h2 align="left">Olá, Meu nome é Karina Akina! 👋<br><br>Olá! Sou Karina, uma profissional apaixonada por aprendizado e desenvolvimento. Este é o espaço onde compartilho projetos que refletem minha jornada como desenvolvedora.<br><br>Sinta-se à vontade para explorar estes projetos, cada um representando um passo nessa jornada fascinante de crescimento e desenvolvimento.<br><br>Seja bem-vindo/a!</h2>
 
+<h3>Sobre Mim:</h3>
+<ul>
+  <li>Educadora e gestora de equipes em transição de carreira.</li>
+  <li>Graduada no bootcamp da Generation Brasil.</li>
+  <li>Habilidades em C#, SQL, ASP.NET e React.</li>
+  <li>Comprometida em fortalecer minha base de conhecimento tecnológico.</li>
+</ul>
+
+<h3>Objetivo:</h3>
+<p>Este repositório reflete meu compromisso com o aprendizado contínuo e aprimoramento de habilidades.</p>
+
+<p>Seja bem-vindo(a)!</p>
 ###
 
 <div align="left">
